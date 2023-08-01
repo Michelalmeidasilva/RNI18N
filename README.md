@@ -68,6 +68,3 @@ This app uses the following dependencies to manage internationalization
 - [React-i18next](https://github.com/i18next/react-i18next)
 - [Intl](https://github.com/andyearnshaw/Intl.js)
 
-The locales files, and the `i18n` configuration file from this project can be found [here](https://github.com/lucasGabrielDeAA/RNI18N/tree/main/src/locales)
-
-- Built with :heart:&nbsp; by [Lucas Gabriel](https://github.com/lucasGabrielDeAA)
